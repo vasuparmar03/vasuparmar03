@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=25&duration=4997&lines=Welcome+to+My+Github+Profile;Hii+%2C+I'm+Vasu)](https://git.io/typing-svg)
+- 🔭 I’m currently working on Web Developement
+- 🌱 I’m currently pursuing B.Tech in IT at ITM (SLS) BARODA UNIVERSITY, VADODARA.
+- ⚡ Fun fact: Code can't lie, Comments can.
 
 <!--
 **vasuparmar03/vasuparmar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
